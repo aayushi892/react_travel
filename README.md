@@ -54,9 +54,3 @@ I am simply a student passionate about Front-end and the intersection of code an
 
 You can find the source of this code via: https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A
 
-## Contributing 💡
-Pull request are welcome but please open an issue and discuss what you will do before 😊
-
-## Like this project? 💖
-
-If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/lunagao
